@@ -5,3 +5,5 @@ Steps that I followed to do this.
 3. git remote add origin url   > To connect it with the online repo
 4. git push -u origin master   > To upload changes to online repo
 5. git pull                    > To download changes from online repo
+NOte:Before every upload from local to online repo you have to add and commit
+changes to your local repo.
