@@ -1,1 +1,7 @@
 This is the first file and first change I am making. Let me add this sentence here.
+Steps that I followed to do this.
+1. git init                    > To intialize git
+2. git add and git commit to commit changes locally.
+3. git remote add origin url   > To connect it with the online repo
+4. git push -u origin master   > To upload changes to online repo
+5. git pull                    > To download changes from online repo
